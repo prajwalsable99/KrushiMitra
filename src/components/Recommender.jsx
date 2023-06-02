@@ -60,7 +60,7 @@ const Recommender = () => {
     <form ref={myref} onSubmit={onformsub}>
         <div className="grid grid-cols-1 gap-6 mt-4 sm:grid-cols-2">
             <div>
-                <label className="text-white dark:text-gray-200" htmlFor="username">Temperature</label>
+                <label className="text-white dark:text-gray-200" htmlFor="username">Temperature(deg cel)</label>
                 <input id="temperature" type="number" className="block w-full px-4 py-2 mt-2 text-gray-700 bg-white border border-gray-300 rounded-md dark:bg-gray-800 dark:text-gray-300 dark:border-gray-600 focus:border-blue-500 dark:focus:border-blue-500 focus:outline-none focus:ring" max={50} min={5} required/>
             </div>
 

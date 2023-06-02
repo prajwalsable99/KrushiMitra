@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import { BrowserRouter,Routes,Route } from "react-router-dom";
+import { HashRouter,Routes,Route } from "react-router-dom";
 import Home from "./pages/Home";
 import VisualPage from "./pages/VisualPage";
 import About from "./pages/About";
@@ -22,7 +22,7 @@ function App() {
 
   return (
 
-      <BrowserRouter>
+      <HashRouter >
     
         <Navbar/>
         <Scrolltotop></Scrolltotop>
@@ -52,7 +52,7 @@ function App() {
         
           </Routes>
     
-      </BrowserRouter>
+      </HashRouter>
     
   );
 }

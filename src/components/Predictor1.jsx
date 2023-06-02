@@ -67,7 +67,7 @@ function Predictor1(props) {
 
 
             <div className="container px-5 py-5 mx-auto bg-black h-full">
-              <h1 className="text-3xl font-medium title-font text-white mb-12 text-center">{ cropname} prdocution Predictor</h1>
+              <h1 className="text-3xl font-medium title-font text-white mb-12 text-center">{ cropname} production Predictor</h1>
               <div className='text-xl font-medium title-font text-green-500 mb-12 text-center'>( R2 score: 0.86 ) </div>
               <div className="flex flex-wrap -m-4">
                 <div className="p-4 md:w-1/2 w-full">
@@ -157,7 +157,7 @@ function Predictor1(props) {
                     :(
                      < div>
                     <div className='text-3xl font-medium title-font text-white mb-12 text-center'> {pred.toFixed(2)} kg/ha </div>
-                    <div className='text-3xl font-medium title-font text-white mb-12 text-center'> {getMoney( 2040,pred)  } rupees per acre </div>
+                    {/* <div className='text-3xl font-medium title-font text-white mb-12 text-center'> {getMoney( 2040,pred)  } rupees per acre </div> */}
                     {/* <div className='text-xl font-medium title-font text-white mb-12 text-center'> Note: rate of rice 2040 rupees per 100kg </div> */}
                     
                     </div>

@@ -22,7 +22,7 @@ const ClassRes = (props) => {
                                     <div className="font-semibold text-left">Accuracy</div>
                                 </th>
                                 <th className="p-2 whitespace-nowrap">
-                                    <div className="font-semibold text-left">Precsion</div>
+                                    <div className="font-semibold text-left">Precision</div>
                                 </th>
                                 <th className="p-2 whitespace-nowrap">
                                     <div className="font-semibold text-center">Recall</div>
