@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/KrushiMitra2/static/css/main.746c0171.css",
-    "main.js": "/KrushiMitra2/static/js/main.c06b3a66.js",
-    "static/media/h3.jpg": "/KrushiMitra2/static/media/h3.6023e89f44715b7f9e75.jpg",
-    "static/media/a2.jpg": "/KrushiMitra2/static/media/a2.c44f6d030e23af61341b.jpg",
-    "static/media/h5.jpg": "/KrushiMitra2/static/media/h5.7a858c7812beefe8e83b.jpg",
-    "static/media/gm3.jpg": "/KrushiMitra2/static/media/gm3.b17a666a22d1b7701a59.jpg",
-    "static/media/gm2.jpg": "/KrushiMitra2/static/media/gm2.cc0c3c0d84c03608682d.jpg",
-    "static/media/a1.jpg": "/KrushiMitra2/static/media/a1.71320a46a360a9520593.jpg",
-    "static/media/a3.jpg": "/KrushiMitra2/static/media/a3.02137d839a9e7f91d855.jpg",
-    "static/media/gm1.jpg": "/KrushiMitra2/static/media/gm1.08218165a5ca74ec1040.jpg",
-    "static/media/gm4.jpg": "/KrushiMitra2/static/media/gm4.22cc3d75fe226b69f8a1.jpg",
-    "static/media/notfoundimg.jpg": "/KrushiMitra2/static/media/notfoundimg.743b4273da30a419b5fb.jpg",
-    "index.html": "/KrushiMitra2/index.html",
-    "main.746c0171.css.map": "/KrushiMitra2/static/css/main.746c0171.css.map",
-    "main.c06b3a66.js.map": "/KrushiMitra2/static/js/main.c06b3a66.js.map"
+    "main.css": "/KrushiMitra/static/css/main.746c0171.css",
+    "main.js": "/KrushiMitra/static/js/main.4e233ac1.js",
+    "static/media/h3.jpg": "/KrushiMitra/static/media/h3.6023e89f44715b7f9e75.jpg",
+    "static/media/a2.jpg": "/KrushiMitra/static/media/a2.c44f6d030e23af61341b.jpg",
+    "static/media/h5.jpg": "/KrushiMitra/static/media/h5.7a858c7812beefe8e83b.jpg",
+    "static/media/gm3.jpg": "/KrushiMitra/static/media/gm3.b17a666a22d1b7701a59.jpg",
+    "static/media/gm2.jpg": "/KrushiMitra/static/media/gm2.cc0c3c0d84c03608682d.jpg",
+    "static/media/a1.jpg": "/KrushiMitra/static/media/a1.71320a46a360a9520593.jpg",
+    "static/media/a3.jpg": "/KrushiMitra/static/media/a3.02137d839a9e7f91d855.jpg",
+    "static/media/gm1.jpg": "/KrushiMitra/static/media/gm1.08218165a5ca74ec1040.jpg",
+    "static/media/gm4.jpg": "/KrushiMitra/static/media/gm4.22cc3d75fe226b69f8a1.jpg",
+    "static/media/notfoundimg.jpg": "/KrushiMitra/static/media/notfoundimg.743b4273da30a419b5fb.jpg",
+    "index.html": "/KrushiMitra/index.html",
+    "main.746c0171.css.map": "/KrushiMitra/static/css/main.746c0171.css.map",
+    "main.4e233ac1.js.map": "/KrushiMitra/static/js/main.4e233ac1.js.map"
   },
   "entrypoints": [
     "static/css/main.746c0171.css",
-    "static/js/main.c06b3a66.js"
+    "static/js/main.4e233ac1.js"
   ]
 }
